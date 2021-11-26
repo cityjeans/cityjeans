@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cityjeans, im a young adult getting back into programming and IT after a break from my teenage obsession.
+- 👀 I’m interested in music technology, computers, and getting a job in todays economy lol.
+- 🌱 I’m currently learning Javascript so that i have something to put on my absolutely barren resume.
